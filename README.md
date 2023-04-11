@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KayoticCoder
 - 👀 I’m interested in programming and finding way around hard things
-- 🌱 I’m currently learning how to work arpund problems
+- 🌱 I’m currently learning how to work around problems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
